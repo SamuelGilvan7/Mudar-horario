@@ -32,7 +32,7 @@ Este é um projeto simples feito com **HTML, CSS e JavaScript**, que muda a inte
 
 ## 📂 Estrutura do projeto
 
-````
+```
 index.html
 style.css
 script.js
